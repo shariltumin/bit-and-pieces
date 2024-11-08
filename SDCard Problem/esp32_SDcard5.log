@@ -1,0 +1,311 @@
+
+Remount local directory ./ at /remote
+>>> import esp32_SDcard5
+V (959687) intr_alloc: esp_intr_alloc_intrstatus (cpu 1): checking args
+V (959687) intr_alloc: esp_intr_alloc_intrstatus (cpu 1): Args okay. Resulting flags 0x80E
+D (959691) intr_alloc: Connected src 31 to int 9 (cpu 1)
+Mounting SDCARD
+V bus_lock: dev 5 acquired.
+V bus_lock: SPI dev changed from -1 to 5
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V (959781) bus_lock: dev 5 served from bg.
+V bus_lock: dev 5 acquired.
+V (959783) bus_lock: dev 5 served from bg.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V (959791) bus_lock: dev 5 served from bg.
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+V (959799) bus_lock: dev 5 served from bg.
+V bus_lock: dev 5 acquired.
+V bus_lock: SPI dev changed from -1 to 5
+V bus_lock: dev 5 acquired.
+V (959809) bus_lock: dev 5 served from bg.
+V bus_lock: dev 5 acquired.
+V (959813) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959823) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959833) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+Listing /sd
+V bus_lock: dev 5 acquired.
+V (959869) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959873) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959883) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959893) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959901) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959911) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959921) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959931) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959941) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959951) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959959) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959969) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959979) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959989) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (959999) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960009) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960019) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960027) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+['pic-0000.jpg', 'pic-0001.jpg', 'pic-0002.jpg', 'pic-0003.jpg', 'pic-0004.jpg', 'pic-0005.jpg', 'pic-0006.jpg', 'pic-0007.jpg', 'pic-0008.jpg', 'pic-0009.jpg', 'pic-0010.jpg', 'pic-0011.jpg', 'pic-0012.jpg', 'pic-0013.jpg', 'pic-0014.jpg', 'pic-0015.jpg', 'pic-0016.jpg', 'pic-0017.jpg', 'pic-0018.jpg', 'pic-0019.jpg', 'pic-0020.jpg', 'pic-0021.jpg', 'pic-0022.jpg', 'pic-0023.jpg', 'pic-0024.jpg', 'pic-0025.jpg', 'pic-0026.jpg', 'pic-0027.jpg', 'pic-0028.jpg', 'pic-0029.jpg', 'pic-0030.jpg', 'pic-0031.jpg', 'pic-0032.jpg', 'pic-0033.jpg', 'pic-0034.jpg', 'pic-0035.jpg', 'pic-0036.jpg', 'pic-0037.jpg', 'pic-0038.jpg', 'pic-0039.jpg', 'pic-0040.jpg', 'pic-0041.jpg', 'pic-0042.jpg', 'pic-0043.jpg', 'pic-0044.jpg', 'pic-0045.jpg', 'pic-0046.jpg', 'pic-0047.jpg', 'pic-0048.jpg', 'pic-0049.jpg', 'pic-0050.jpg', 'pic-0051.jpg', 'pic-0052.jpg', 'pic-0053.jpg', 'pic-0054.jpg', 'pic-0055.jpg', 'pic-0056.jpg', 'pic-0057.jpg', 'pic-0058.jpg', 'pic-0059.jpg', 'pic-0060.jpg', 'pic-0061.jpg', 'pic-0062.jpg', 'pic-0063.jpg', 'pic-0064.jpg', 'pic-0065.jpg', 'pic-0066.jpg', 'pic-0067.jpg', 'pic-0068.jpg', 'pic-0069.jpg', 'pic-0070.jpg', 'pic-0071.jpg', 'pic-0072.jpg', 'pic-0073.jpg', 'pic-0074.jpg', 'pic-0075.jpg', 'pic-0076.jpg', 'pic-0077.jpg', 'pic-0078.jpg', 'pic-0079.jpg', 'pic-0080.jpg', 'pic-0081.jpg', 'pic-0082.jpg', 'pic-0083.jpg', 'pic-0084.jpg', 'pic-0085.jpg', 'pic-0086.jpg', 'pic-0087.jpg', 'pic-0088.jpg', 'pic-0089.jpg', 'pic-0090.jpg', 'pic-0091.jpg', 'pic-0092.jpg', 'pic-0093.jpg', 'pic-0094.jpg', 'pic-0095.jpg', 'pic-0096.jpg', 'pic-0097.jpg', 'pic-0098.jpg', 'pic-0099.jpg', 'pic-0100.jpg', 'pic-0101.jpg', 'pic-0102.jpg', 'pic-0103.jpg', 'pic-0104.jpg', 'pic-0105.jpg', 'pic-0106.jpg', 'pic-0107.jpg', 'pic-0108.jpg', 'pic-0109.jpg', 'pic-0110.jpg', 'pic-0111.jpg', 'pic-0112.jpg', 'pic-0113.jpg', 'pic-0114.jpg', 'pic-0115.jpg', 'pic-0116.jpg', 'pic-0117.jpg', 'pic-0118.jpg', 'pic-0119.jpg', 'pic-0120.jpg', 'pic-0121.jpg', 'pic-0122.jpg', 'pic-0123.jpg', 'pic-0124.jpg', 'pic-0125.jpg', 'pic-0126.jpg', 'pic-0127.jpg', 'pic-0128.jpg', 'pic-0129.jpg', 'pic-0130.jpg', 'pic-0131.jpg', 'pic-0132.jpg', 'pic-0133.jpg', 'pic-0134.jpg', 'pic-0135.jpg', 'pic-0136.jpg', 'pic-0137.jpg', 'pic-0138.jpg', 'pic-0139.jpg', 'pic-0140.jpg', 'pic-0141.jpg', 'pic-0142.jpg', 'pic-0143.jpg', 'pic-0144.jpg', 'pic-0145.jpg', 'pic-0146.jpg', 'pic-0147.jpg', 'pic-0148.jpg', 'pic-0149.jpg', 'pic-0150.jpg', 'pic-0151.jpg', 'pic-0152.jpg', 'pic-0153.jpg', 'pic-0154.jpg', 'pic-0155.jpg', 'pic-0156.jpg', 'pic-0157.jpg', 'pic-0158.jpg', 'pic-0159.jpg', 'pic-0160.jpg', 'pic-0161.jpg', 'pic-0162.jpg', 'pic-0163.jpg', 'pic-0164.jpg', 'pic-0165.jpg', 'pic-0166.jpg', 'pic-0167.jpg', 'pic-0168.jpg', 'pic-0169.jpg', 'pic-0170.jpg', 'pic-0171.jpg', 'pic-0172.jpg', 'pic-0173.jpg', 'pic-0174.jpg', 'pic-0175.jpg', 'pic-0176.jpg', 'pic-0177.jpg', 'pic-0178.jpg', 'pic-0179.jpg', 'pic-0180.jpg', 'pic-0181.jpg', 'pic-0182.jpg', 'pic-0183.jpg', 'pic-0184.jpg', 'pic-0185.jpg', 'pic-0186.jpg', 'pic-0187.jpg', 'pic-0188.jpg', 'pic-0189.jpg', 'pic-0190.jpg', 'pic-0191.jpg', 'pic-0192.jpg', 'pic-0193.jpg', 'pic-0194.jpg', 'pic-0195.jpg', 'pic-0196.jpg', 'pic-0197.jpg', 'pic-0198.jpg', 'pic-0199.jpg', 'pic-0200.jpg', 'pic-0201.jpg', 'pic-0202.jpg', 'pic-0203.jpg', 'pic-0204.jpg', 'pic-0205.jpg', 'pic-0206.jpg', 'pic-0207.jpg', 'pic-0208.jpg', 'pic-0209.jpg', 'pic-0210.jpg', 'pic-0211.jpg', 'pic-0212.jpg', 'pic-0213.jpg', 'pic-0214.jpg', 'pic-0215.jpg', 'pic-0216.jpg', 'pic-0217.jpg', 'pic-0218.jpg', 'pic-0219.jpg', 'pic-0220.jpg', 'pic-0221.jpg', 'pic-0222.jpg', 'pic-0223.jpg', 'pic-0224.jpg', 'pic-0225.jpg', 'pic-0226.jpg', 'pic-0227.jpg', 'pic-0228.jpg', 'pic-0229.jpg', 'pic-0230.jpg', 'pic-0231.jpg', 'pic-0232.jpg', 'pic-0233.jpg', 'pic-0234.jpg', 'pic-0235.jpg', 'pic-0236.jpg', 'pic-0237.jpg', 'pic-0238.jpg', 'pic-0239.jpg', 'pic-0240.jpg', 'pic-0241.jpg', 'pic-0242.jpg', 'pic-0243.jpg', 'pic-0244.jpg', 'pic-0245.jpg', 'pic-0246.jpg', 'pic-0247.jpg', 'pic-0248.jpg', 'pic-0249.jpg', 'pic-0250.jpg', 'pic-0251.jpg', 'pic-0252.jpg', 'pic-0253.jpg', 'pic-0254.jpg', 'pic-0255.jpg', 'pic-0256.jpg', 'pic-0257.jpg', 'pic-0258.jpg', 'pic-0259.jpg', 'pic-0260.jpg', 'pic-0261.jpg', 'pic-0262.jpg', 'pic-0263.jpg', 'pic-0264.jpg', 'pic-0265.jpg', 'pic-0266.jpg', 'pic-0267.jpg', 'pic-0268.jpg', 'pic-0269.jpg', 'pic-0270.jpg', 'pic-0271.jpg', 'pic-0272.jpg', 'pic-0273.jpg', 'pic-0274.jpg', 'pic-0275.jpg', 'pic-0276.jpg', 'pic-0277.jpg', 'pic-0278.jpg', 'data.log', 'test.txt']
+Open test.txt for read
+V bus_lock: dev 5 acquired.
+V (960349) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960359) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960367) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960377) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960387) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960397) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960407) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960417) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960425) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960435) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960445) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960455) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960465) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960475) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960483) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960493) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960503) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960513) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960523) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+Hello, World!Hello there!
+Hello there!
+
+Open test.txt for append
+V bus_lock: dev 5 acquired.
+V (960537) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960547) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960557) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960565) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960575) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960585) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960595) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960605) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960615) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960625) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960633) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960643) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960653) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960663) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960673) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960683) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960691) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960701) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960711) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960721) bus_lock: dev 5 served from bg.
+V bus_lock: dev 5 acquired.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 3
+what: 3 return: 0 
+V bus_lock: dev 5 acquired.
+V (960733) bus_lock: dev 5 served from bg.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 1
+what: 1 return: 0 
+V bus_lock: dev 5 acquired.
+V (960741) bus_lock: dev 5 served from bg.
+V bus_lock: dev 5 acquired.
+ret: 15  nret: -22  MP_EINVAL: 22 what: 3
+what: 3 return: 0 
+>>> 
+
+--------------------------------------------------------
+
+Without sdcard inserted:
+
+>>> import esp32_SDcard5
+V (2291515) intr_alloc: esp_intr_alloc_intrstatus (cpu 1): checking args
+V (2291515) intr_alloc: esp_intr_alloc_intrstatus (cpu 1): Args okay. Resulting flags 0x80E
+D (2291519) intr_alloc: Connected src 31 to int 9 (cpu 1)
+Mounting SDCARD
+V bus_lock: dev 5 acquired.
+V bus_lock: SPI dev changed from -1 to 5
+V bus_lock: dev 5 acquired.
+V bus_lock: dev 5 acquired.
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "esp32_SDcard5.py", line 17, in <module>
+OSError: 16
+
+
